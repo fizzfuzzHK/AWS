@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1586961470,,"wq"
+|2,0,1586964355,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,28 +25,70 @@
 # Registers:
 
 # File marks:
-'0  3  16  ~/.ssh/config
-|4,48,3,16,1586961470,"~/.ssh/config"
-'1  3  14  ~/.ssh/config
-|4,49,3,14,1586961405,"~/.ssh/config"
-'2  4  27  ~/.ssh/config
-|4,50,4,27,1586961387,"~/.ssh/config"
-'3  4  27  ~/.ssh/config
-|4,51,4,27,1586961387,"~/.ssh/config"
+'0  5  31  ~/appspec.yml
+|4,48,5,31,1586964355,"~/appspec.yml"
+'1  5  17  ~/appspec.yml
+|4,49,5,17,1586964339,"~/appspec.yml"
+'2  3  16  ~/.ssh/config
+|4,50,3,16,1586961470,"~/.ssh/config"
+'3  3  14  ~/.ssh/config
+|4,51,3,14,1586961405,"~/.ssh/config"
 '4  4  27  ~/.ssh/config
 |4,52,4,27,1586961387,"~/.ssh/config"
 '5  4  27  ~/.ssh/config
 |4,53,4,27,1586961387,"~/.ssh/config"
+'6  4  27  ~/.ssh/config
+|4,54,4,27,1586961387,"~/.ssh/config"
+'7  4  27  ~/.ssh/config
+|4,55,4,27,1586961387,"~/.ssh/config"
 
 # Jumplist (newest first):
+-'  5  31  ~/appspec.yml
+|4,39,5,31,1586964355,"~/appspec.yml"
+-'  5  17  ~/appspec.yml
+|4,39,5,17,1586964339,"~/appspec.yml"
+-'  1  0  ~/appspec.yml
+|4,39,1,0,1586964319,"~/appspec.yml"
+-'  1  0  ~/appspec.yml
+|4,39,1,0,1586964319,"~/appspec.yml"
 -'  3  16  ~/.ssh/config
 |4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  16  ~/.ssh/config
+|4,39,3,16,1586961470,"~/.ssh/config"
+-'  3  14  ~/.ssh/config
+|4,39,3,14,1586961405,"~/.ssh/config"
+-'  3  14  ~/.ssh/config
+|4,39,3,14,1586961405,"~/.ssh/config"
+-'  3  14  ~/.ssh/config
+|4,39,3,14,1586961405,"~/.ssh/config"
 -'  3  14  ~/.ssh/config
 |4,39,3,14,1586961405,"~/.ssh/config"
 -'  4  27  ~/.ssh/config
 |4,39,4,27,1586961398,"~/.ssh/config"
 -'  4  27  ~/.ssh/config
 |4,39,4,27,1586961398,"~/.ssh/config"
+-'  4  27  ~/.ssh/config
+|4,39,4,27,1586961398,"~/.ssh/config"
+-'  4  27  ~/.ssh/config
+|4,39,4,27,1586961398,"~/.ssh/config"
+-'  4  27  ~/.ssh/config
+|4,39,4,27,1586961398,"~/.ssh/config"
+-'  4  27  ~/.ssh/config
+|4,39,4,27,1586961398,"~/.ssh/config"
+-'  4  27  ~/.ssh/config
+|4,39,4,27,1586961398,"~/.ssh/config"
+-'  4  27  ~/.ssh/config
+|4,39,4,27,1586961398,"~/.ssh/config"
+-'  4  27  ~/.ssh/config
+|4,39,4,27,1586961387,"~/.ssh/config"
+-'  4  27  ~/.ssh/config
+|4,39,4,27,1586961387,"~/.ssh/config"
+-'  4  27  ~/.ssh/config
+|4,39,4,27,1586961387,"~/.ssh/config"
 -'  4  27  ~/.ssh/config
 |4,39,4,27,1586961387,"~/.ssh/config"
 -'  1  0  ~/.ssh/config
@@ -55,8 +97,35 @@
 |4,39,1,0,1586961341,"~/.ssh/config"
 -'  1  0  ~/.ssh/config
 |4,39,1,0,1586961341,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1586961341,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1586961341,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1586961341,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1586961341,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1586961341,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1586961341,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1586961341,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1586961341,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1586961341,"~/.ssh/config"
 
 # History of marks within files (newest to oldest):
+
+> ~/appspec.yml
+	*	1586964354	0
+	"	5	31
+	^	5	32
+	.	5	31
+	+	5	37
+	+	4	17
+	+	5	31
 
 > ~/.ssh/config
 	*	1586961470	0
