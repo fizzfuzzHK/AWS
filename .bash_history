@@ -79,3 +79,23 @@ cd myapp/
 npm start
 npm install
 npm start
+cd node
+ls
+cd myapp/
+ls
+cat app.js 
+ls
+cd public/
+ls
+cd ../
+cd routes/
+ls
+cat index.js 
+ls
+cd ../
+ls
+cd bin
+ls
+cat www 
+cd ../
+npm start
